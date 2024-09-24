@@ -1,0 +1,8 @@
+Carrot
+Broccoli
+Spinach
+Lettuce
+Kale
+Potato
+Onion
+
